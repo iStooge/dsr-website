@@ -1,15 +1,19 @@
 ---
 # Title, summary, and page position.
-linktitle: Einordnung und Kontext
+linktitle: DSR in IS
 summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
-weight: 2
-icon: book
+weight: 4
+icon: pencil-ruler
 icon_pack: fas
 
 # Page metadata.
-title: Einordnung und Kontext
+title: DSR in IS
 date: "2020-11-24T00:00:00Z"
 type: book # Do not modify.
 ---
 
-{{< youtube zWDn0QYSwo4 >}}
+## In Arbeit
+
+{{% alert note %}}
+Die Inhalte des Kurses werden noch ausgearbeitet.
+{{% /alert %}}
