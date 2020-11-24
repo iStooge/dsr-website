@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Features"
-subtitle = "Document _anything_ ✨"
+subtitle = "That is what Design Science Research is about"
 
 # Showcase features.
 #
@@ -17,20 +17,20 @@ subtitle = "Document _anything_ ✨"
 [[feature]]
   icon = "pencil-ruler"
   icon_pack = "fas"
-  name = "Project Documentation"
-  description = "For users"
+  name = "Design"
+  description = "of innovative Artifacts"
 
 [[feature]]
   icon = "question"
   icon_pack = "fas"
-  name = "Knowledge Base"
-  description = "For teams"  
+  name = "Relevance"
+  description = "Solving practical problems"  
 
 [[feature]]
-  icon = "list-alt"
+  icon = "book"
   icon_pack = "fas"
-  name = "Personal Notebook"
-  description = "For yourself"
+  name = "Rigor"
+  description = "Building on the existing knowledge base"
 
 # Uncomment to use emoji icons.
 # [[feature]]

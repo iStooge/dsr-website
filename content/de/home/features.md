@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Features"
-subtitle = "Document _anything_ ✨"
+title = "Eigenschaften"
+subtitle = "Das macht Design Science Research aus"
 
 # Showcase features.
 #
@@ -17,20 +17,20 @@ subtitle = "Document _anything_ ✨"
 [[feature]]
   icon = "pencil-ruler"
   icon_pack = "fas"
-  name = "Project Documentation"
-  description = "For users"
+  name = "Gestalten"
+  description = "von innovativen Artefakten"
 
 [[feature]]
   icon = "question"
   icon_pack = "fas"
-  name = "Knowledge Base"
-  description = "For teams"  
+  name = "Relevant"
+  description = "Lösen von praktischen Problemstellungen"  
 
 [[feature]]
-  icon = "list-alt"
+  icon = "book"
   icon_pack = "fas"
-  name = "Personal Notebook"
-  description = "For yourself"
+  name = "Wissenschaftlich Fundiert"
+  description = "Aufbauen auf der bestehenden Wissensbasis"
 
 # Uncomment to use emoji icons.
 # [[feature]]

@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Design Science Research"
+title = "PhD Course"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "dsr-circle.svg"
@@ -38,7 +38,7 @@ hero_media = "dsr-circle.svg"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "docs/"
-  label = "Zu den Kursinhalten"
+  label = "To the course"
   icon_pack = "fas"
   icon = "chalkboard-teacher"
 
@@ -47,8 +47,8 @@ hero_media = "dsr-circle.svg"
 #  label = "View Documentation"
 
 # Note. An optional note to show underneath the links.
-#[cta_note]
-#  label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
+[cta_note]
+  label = '<span>Seminar dates at the Technical University of Braunschweig in January and February 2021</span>'
 +++
 
-Ein gestaltungsorientiertes Forschungsparadigma
+Design Science Research: A design-oriented research paradigm
