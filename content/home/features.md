@@ -9,23 +9,23 @@ title = "Features"
 subtitle = "Document _anything_ ✨"
 
 # Showcase features.
-# 
+#
 # Add/remove as many `[[feature]]` blocks below as you like.
-# 
+#
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "book-open"
+  icon = "pencil-ruler"
   icon_pack = "fas"
   name = "Project Documentation"
   description = "For users"
-  
+
 [[feature]]
   icon = "question"
   icon_pack = "fas"
   name = "Knowledge Base"
   description = "For teams"  
-  
+
 [[feature]]
   icon = "list-alt"
   icon_pack = "fas"

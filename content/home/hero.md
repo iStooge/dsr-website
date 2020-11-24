@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Book Template"
+title = "Design Science Research"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = "book.svg"
+hero_media = "dsr-circle.svg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -17,19 +17,19 @@ hero_media = "book.svg"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
-  
+  color = "#1A454E"
+
   # Background gradient.
-  gradient_start = "#4bb4e3"
-  gradient_end = "#2b94c3"
-  
+  # gradient_start = "#1A454E"
+  # gradient_end = "#1A454E"
+
   # Background image.
   # image = ""  # Name of image in `static/media/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
-  
+
   # Text color (true=light or false=dark).
   text_color_light = true
 
@@ -38,21 +38,17 @@ hero_media = "book.svg"
 #   Remove a link/note by deleting a cta/note block.
 [cta]
   url = "docs/"
-  label = "Get Started"
+  label = "Zu den Kursinhalten"
   icon_pack = "fas"
-  icon = "download"
-  
-[cta_alt]
-  url = "docs/"
-  label = "View Documentation"
+  icon = "chalkboard-teacher"
+
+#[cta_alt]
+#  url = "docs/"
+#  label = "View Documentation"
 
 # Note. An optional note to show underneath the links.
-[cta_note]
-  label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
+#[cta_note]
+#  label = '<span class="js-github-release" data-repo="gcushen/hugo-academic">Show your product version here:<!-- V --></span>'
 +++
 
-For [Academic Website Builder](https://sourcethemes.com/academic/).
-
-Write something interesting about your project here.
-
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
+Ein gestaltungsorientiertes Forschungsparadigma
