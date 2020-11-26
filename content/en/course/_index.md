@@ -24,7 +24,6 @@ Der Kurs wird aus insgesamt 4 Online-Terminen bestehen. Zwischen den Terminen wi
 
 ## Termine
 
-- Dienstag, 12.01.2021: 13 - 15:30 Uhr
-- Dienstag, 02.02.2021: 13 - 15:30 Uhr
-- Dienstag, 23.02.2021, 13 - 15:30 Uhr & ggf. 24.02.2021 13 - 15:30 Uhr
-  (Je nach Teilnehmeranzahl)
+- Dienstag, 16.02.2021: 13 - 15:30 Uhr
+- Dienstag, 09.03.2021: 13 - 15:30 Uhr
+- Dienstag, 30.03.2021, 13 - 15:30 Uhr & 31.03.2021 13 - 15:30 Uhr
