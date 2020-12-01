@@ -14,6 +14,4 @@ type: book # Do not modify.
 
 ## In Arbeit
 
-{{% alert note %}}
-Die Inhalte des Kurses werden noch ausgearbeitet.
-{{% /alert %}}
+{{< youtube KISQj4hfkA8 >}}
