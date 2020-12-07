@@ -48,7 +48,7 @@ hero_media = "dsr-circle.svg"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<span>Präsenztermine an der Technischen Universität Braunschweig im Januar und Februar 2021</span>'
+  label = '<span>Online Doktorandenseminar an der Technischen Universität Braunschweig im Februar und März 2021</span>'
 +++
 
 Design Science Research: Ein gestaltungsorientiertes Forschungsparadigma

@@ -48,7 +48,7 @@ hero_media = "dsr-circle.svg"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = '<span>Seminar dates at the Technical University of Braunschweig in January and February 2021</span>'
+  label = '<span>Online PhD seminar at the Technical University of Braunschweig in February and March 2021</span>'
 +++
 
 Design Science Research: A design-oriented research paradigm
