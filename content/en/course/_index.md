@@ -5,8 +5,8 @@ icon: info-circle
 icon_pack: fas
 ---
 
-{{% alert note %}}
+{{% callout note %}}
 The course is not yet available in English yet, but we are working on it!
-{{% /alert %}}
+{{% /callout %}}
 
 Click here for the German version of the course: [Deutscher DSR Kurs](/course)

@@ -10,6 +10,6 @@ weight: 2
 
 ## In Arbeit
 
-{{% alert note %}}
+{{% callout note %}}
 Die Inhalte des Kurses werden noch ausgearbeitet.
-{{% /alert %}}
+{{% /callout %}}
