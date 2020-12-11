@@ -1,38 +1,13 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: Designing Conversational Agents for Energy Feedback
-subtitle: ""
-summary: ""
+date: "2018-01-01"
+draft: true
+publishDate: "2020-12-11T13:04:28.277429Z"
 authors:
   - Ulrich Gnewuch
   - Stefan Morana
   - Carl Heckmann
   - Alexander Maedche
-tags:
-  - "Best Practice"
-  - "Design Principles"
-categories: []
-date: "2018-01-01"
-lastmod: 2020-12-11T14:16:23+01:00
-featured: false
-draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-publishDate: "2020-12-11T13:16:23.177447Z"
 publication_types:
   - "6"
 abstract:
@@ -49,6 +24,10 @@ abstract:
   evaluated in a focus group session with industry experts. We contribute with valuable
   design knowledge that extends previous research on the design of energy feedback
   solutions.
+featured: false
 publication: "*Designing for a Digital and Globalized World*"
+tags:
+  - "Best Practice"
+  - "Design Principles"
 doi: 10.1007/978-3-319-91800-6_2
 ---
