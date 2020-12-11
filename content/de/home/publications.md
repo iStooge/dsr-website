@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
-title = "wi2 Publikationen"
+title = "WI2 DSR Publikationen"
 subtitle = ""
 
 [content]

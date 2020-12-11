@@ -9,11 +9,16 @@
   weight = 10
 
 [[main]]
-  name = "Publikationen"
+  name = "DSR Publikationen"
   url = "publication/"
   weight = 20
 
 [[main]]
+  name = "Best Practices"
+  url = "tag/best-practice/"
+  weight = 30
+
+[[main]]
   name = "Impressum"
   url = "imprint/"
-  weight = 30
+  weight = 40
