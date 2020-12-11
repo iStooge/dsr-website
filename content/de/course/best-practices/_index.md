@@ -12,8 +12,6 @@ date: "2020-11-24T00:00:00Z"
 type: book # Do not modify.
 ---
 
-## In Arbeit
+## Ausgewählte Literatur
 
-{{% callout note %}}
-Die Inhalte des Kurses werden noch ausgearbeitet.
-{{% /callout %}}
+Wir sammeln auf dieser Webseite Paper aus Forschungsvorhaben, welche Design Science Research verwenden und von uns als besonders gut angesehen werden. Die Liste kann hier eingesehen werden: [DSR Best Practices](/tag/best-practice/)
