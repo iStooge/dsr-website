@@ -13,3 +13,7 @@ type: book # Do not modify.
 ---
 
 {{< youtube 4omHu5XFEr0 >}}
+
+## Empfohlene Literatur
+
+- [Gregor S, Hevner AR (2013) Positioning and presenting design science research for maximum impact. MIS quarterly 37:337–355](/publication/gregor-2013-b/)

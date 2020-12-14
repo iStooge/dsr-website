@@ -13,3 +13,8 @@ type: book # Do not modify.
 ---
 
 {{< youtube JqFQp7QqXec >}}
+
+## Empfohlene Literatur
+
+- [Peffers K, Tuunanen T, Rothenberger MA, Chatterjee S (2007) A design science research methodology for information systems research. Journal of management information systems 24:45–77](/publication/peffers-2007/)
+- [Vaishnavi VK, Kuechler W (2015) Design science research methods and patterns: innovating information and communication technology. Crc Press](/publication/vaishnavi-2015-b/)
