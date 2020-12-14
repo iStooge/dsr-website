@@ -16,13 +16,13 @@ header:
 
 ## Einführung
 
-In diesen Datenschutzbestimmungen stellt BeDien („wir“, „unser“ oder „das Projekt“) seine Vorgehensweise bezüglich der erfassten Daten von Nutzern, die auf unsere Webseite unter BeDien.org („Webseite“) zugreifen oder uns auf andere Weise personenbezogene Daten bereitstellen (gemeinsam: „Nutzer“), dar.
+In diesen Datenschutzbestimmungen stellt Dr. Timo Strohmann und die Abteilung Informationsmanagement („wir“, „unser“ oder „das Projekt“) seine Vorgehensweise bezüglich der erfassten Daten von Nutzern, die auf unsere Webseite unter design-science-research.de („Webseite“) zugreifen oder uns auf andere Weise personenbezogene Daten bereitstellen (gemeinsam: „Nutzer“), dar.
 Bitte lesen Sie sich die Datenschutzbestimmungen sorgfältig durch!
 
 Verantwortlich für die nachfolgend dargestellte Datenerhebung und –verarbeitung ist die:
 Technische Universität Braunschweig
 Institut für Wirtschaftsinformatik, Abteilung Informationsmanagement
-Begleitforschung Personennahe Dienstleistungen – BeDien
+Dr. Timo Strohmann
 Mühlenpfordstr. 23
 38106 Braunschweig
 t.strohmann@tu-braunschweig.de
@@ -47,7 +47,7 @@ umgesetzt. Die Datenschutzerklärung der STRATO AG finden Sie unter: https://www
 
 ## Nutzungsdaten
 
-Wir erfassen zwei Arten von Daten und Informationen von Nutzern. Die Datenerfassung erfolgt über uns und/oder die IONOS Internet SE.
+Wir erfassen zwei Arten von Daten und Informationen von Nutzern. Die Datenerfassung erfolgt über uns und/oder die STRATO AG.
 
 1. Statistische Daten:
    Zur ersten Kategorie gehören nicht identifizierende und nicht identifizierbare Nutzerdaten, die durch die Nutzung der Webseite bereitgestellt oder erfasst werden („Nicht personenbezogene Daten”). Wenn Sie unsere Webseite besuchen, werden auf unserem Webserver temporär sogenannte Nutzungsdaten zu statistischen Zwecken als Protokoll gespeichert, um die Qualität unserer Webseite zu verbessern. Dieser Datensatz besteht aus:
@@ -68,7 +68,7 @@ Wir erfassen zwei Arten von Daten und Informationen von Nutzern. Die Datenerfass
    Gerätedaten: Wir erfassen personenbezogene Daten von Ihrem Gerät. Solche Daten umfassen IP-Adresse, eindeutige Kennungen (z. B. MAC-Adresse und UUID) sowie andere Daten, die sich aus Ihrer Aktivität auf der Webseite ergeben.
    Registrierungsdaten für den Newsletter: Wenn Sie sich auf unserer Webseite für den Newsletter registrieren, werden Sie um die Angabe bestimmter Informationen gebeten, z. B.: E-Mail-Adresse.
    Speicherung
-   Wir speichern Ihre personenbezogenen Daten so lange, wie es für die Bereitstellung unserer Services und die Einhaltung rechtlicher Verpflichtungen erforderlich ist. Der Speicherort sind die Server der IONOS Internet SE. Die Aufbewahrungsfristen richten sich nach der Art der erfassten Daten und dem Zweck, für den diese Daten erfasst wurden, wobei sowohl die fallspezifischen Gegebenheiten als auch die Notwendigkeit berücksichtigt werden, veraltete, nicht genutzte Informationen baldmöglichst zu löschen.
+   Wir speichern Ihre personenbezogenen Daten so lange, wie es für die Bereitstellung unserer Services und die Einhaltung rechtlicher Verpflichtungen erforderlich ist. Der Speicherort sind die Server der STRATO AG. Die Aufbewahrungsfristen richten sich nach der Art der erfassten Daten und dem Zweck, für den diese Daten erfasst wurden, wobei sowohl die fallspezifischen Gegebenheiten als auch die Notwendigkeit berücksichtigt werden, veraltete, nicht genutzte Informationen baldmöglichst zu löschen.
 
 ## Cookies
 
@@ -81,6 +81,34 @@ b. „Drittanbieter-Cookies“, die von anderen Online-Diensten gesetzt werden, 
 
 Beim Aufruf der Webseite werden die Nutzer durch ein Infobanner über die Verwendung von Cookies informiert und auf diese Datenschutzerklärung verwiesen.
 Sie können Cookies über die Geräteeinstellungen Ihres Gerätes entfernen. Folgen Sie dabei den entsprechenden Anweisungen. Beachten Sie, dass die Deaktivierung von Cookies zur Einschränkung bestimmter Funktionen bei der Nutzung unserer Webseite führen kann.
+
+## Hotjar
+
+Diese Website nutzt Hotjar. Anbieter ist die Hotjar Ltd., Level 2, St Julians Business Centre, 3, Elia Zammit Street, St Julians STJ 1000, Malta, Europe (Website: https://www.hotjar.com).
+
+Hotjar ist ein Werkzeug zur Analyse Ihres Nutzerverhaltens auf unserer Website. Mit Hotjar können wir u. a. Ihre Maus- und Scrollbewegungen und Klicks aufzeichnen. Hotjar kann dabei auch feststellen, wie lange Sie mit dem Mauszeiger auf einer bestimmten Stelle verblieben sind. Aus diesen Informationen erstellt Hotjar sogenannte Heatmaps, mit denen sich feststellen lässt, welche Websitebereiche vom Websitebesucher bevorzugt angeschaut werden.
+
+Des Weiteren können wir feststellen, wie lange Sie auf einer Seite verblieben sind und wann Sie sie verlassen haben. Wir können auch feststellen, an welcher Stelle Sie Ihre Eingaben in ein Kontaktformular abgebrochen haben (sog. Conversion-Funnels).
+
+Darüber hinaus können mit Hotjar direkte Feedbacks von Websitebesuchern eingeholt werden. Diese Funktion dient der Verbesserung der Webangebote des Websitebetreibers.
+
+Hotjar verwendet Cookies. Cookies sind kleine Textdateien, die auf Ihrem Rechner abgelegt werden und die Ihr Browser speichert. Sie dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen. Mit diesen Cookies lässt sich insbesondere feststellen, ob unsere Website mit einem bestimmten Endgerät besucht wurde oder ob die Funktionen von Hotjar für den betreffenden Browser deaktiviert wurde. Hotjar-Cookies verbleiben auf Ihrem Endgerät, bis Sie sie löschen.
+
+Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies informiert werden und Cookies nur im Einzelfall erlauben, die Annahme von Cookies für bestimmte Fälle oder generell ausschließen sowie das automatische Löschen der Cookies beim Schließen des Browsers aktivieren. Bei der Deaktivierung von Cookies kann die Funktionalität dieser Website eingeschränkt sein.
+
+Die Nutzung von Hotjar und die Speicherung von Hotjar-Cookies erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO. Der Websitebetreiber hat ein berechtigtes Interesse an der Analyse des Nutzerverhaltens, um sowohl sein Webangebot als auch seine Werbung zu optimieren.
+
+a) Deaktivieren von Hotjar
+
+Wenn Sie die Datenerfassung durch Hotjar deaktivieren möchten, klicken Sie auf folgenden Link und folgen Sie den dortigen Anweisungen: https://www.hotjar.com/opt-out
+
+Bitte beachten Sie, dass die Deaktivierung von Hotjar für jeden Browser bzw. für jedes Endgerät separat erfolgen muss.
+
+Nähere Informationen über Hotjar und zu den erfassten Daten entnehmen Sie der Datenschutzerklärung von Hotjar unter dem folgenden Link: https://www.hotjar.com/privacy
+
+b) Vertrag über Auftragsverarbeitung
+
+Wir haben einen Vertrag über Auftragsverarbeitung mit Hotjar geschlossen, um die strengen europäischen Datenschutzvorschriften umzusetzen.
 
 ## Betroffenenrechte
 
