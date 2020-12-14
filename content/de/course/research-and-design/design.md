@@ -11,5 +11,7 @@ weight: 2
 ## In Arbeit
 
 {{% callout note %}}
-Die Inhalte des Kurses werden noch ausgearbeitet.
+Dieser Teil des Kurses wird noch ausgearbeitet.
 {{% /callout %}}
+
+Hier geht es weiter: [DSR in IS](/course/dsr-in-is/)
