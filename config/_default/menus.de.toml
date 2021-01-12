@@ -4,21 +4,26 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
+  name = "Blog"
+  url = "post/"
+  weight = 10
+
+[[main]]
   name = "Kurs"
   url = "course/"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "DSR Publikationen"
   url = "publication/"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Best Practices"
   url = "tag/best-practice/"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Impressum"
   url = "imprint/"
-  weight = 40
+  weight = 50
