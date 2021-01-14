@@ -10,28 +10,30 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:
+role: Wissenschaftllicher Mitarbeiter
 
 # Organizations/Affiliations
 organizations:
-  - name:
-    url: ""
+  - name: Technische Universität Braunschweig
+    url: "https://www.tu-braunschweig.de/wi2/team/becker"
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: Ich forsche zur digitalen Partizipation.
 
 # List each interest with a dash
 interests:
-  - Interest 1
-  - Interest 2
+  - Partizipation
+  - Digital unterstützte Zusammenarbeit
+  - Postdigitalismus
+  - Action Design Research
 
 education:
   courses:
-    - course: Title course 1
-      institution: Name of Institution
-      year: 2012
-    - course: Title course 1
-      institution: Name of Institution
+    - course: Master of Science Medientechnik und Kommunikation
+      institution: Technische Universität Braunschweig
+      year: 2016
+    - course: Bachelor of Arts Medienwissenschaft
+      institution: Universität Paderborn
       year: 2012
 
 # Social/Academic Networking
@@ -39,18 +41,21 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: globe-europe
+    icon_pack: fas
+    link: https://www.tu-braunschweig.de/wi2/team/becker
   - icon: envelope
     icon_pack: fas
-    link: "#contact" # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/USERNAME
+    link: mailto:felix.becker@tu-braunschweig.de # For a direct email link, use "mailto:test@example.org".
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=PERSON-ID
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/USERNAME
+    link: https://scholar.google.de/citations?user=ErLfPkQAAAAJ&hl=de
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-0797-0726
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Felix_Becker3
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,3 +74,8 @@ user_groups:
   - Group 1
   - Group 2
 ---
+
+Die grundlegenden Fragen, die ich beantworten möchte sind:
+
+- Was bringt Menschen dazu sich freiwillig für etwas einzusetzen, dass auch Anderen etwas bringt?
+- Wie kann eine digitale Partizipationsunterstützung gestaltet werden?
