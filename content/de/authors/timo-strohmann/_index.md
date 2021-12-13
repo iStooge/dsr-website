@@ -2,6 +2,8 @@
 # Display name
 title: Dr. Timo Strohmann
 
+weight: 10
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -70,8 +72,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - Visitors
+  - Authors
+  - Autoren & Unterstützer
 ---
 
 ### Begründer und Autor dieser Seite

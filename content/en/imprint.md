@@ -16,7 +16,7 @@ header:
 
 ## Verantwortlich
 
-Timo Strohmann
+Dr. Timo Strohmann
 Institut für Wirtschaftsinformatik, Abteilung Informationsmanagement
 
 ## Kontakt

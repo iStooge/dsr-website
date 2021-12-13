@@ -2,6 +2,8 @@
 # Display name
 title: "Dr. Dominik Siemon"
 
+weight: 30
+
 # Username (this should match the folder name and the name on publications)
 authors:
   - "dominik-siemon"
@@ -14,8 +16,8 @@ role: Forscher
 
 # Organizations/Affiliations
 organizations:
-  - name: Technische Universität Braunschweig & IUBH Internationale Hochschule
-    url: "https://www.tu-braunschweig.de/wi2/team/siemon"
+  - name: LUT University
+    url: "https://www.lut.fi/web/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Ich forsche im Bereich Design Science Research, um auf kreative und innovative Art und Weise neue Artefakte zu schaffen, die Herausforderungen der digitalen Gesellschaft lösen können.
@@ -78,8 +80,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researcher
-  - Visitors
+  - Authors
+  - Autoren & Unterstützer
 ---
 
 ### Autor

@@ -6,6 +6,8 @@ title: "Felix Becker"
 authors:
   - "felix-becker"
 
+weight: 20
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -71,8 +73,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Group 1
-  - Group 2
+  - Authors
+  - Autoren & Unterstützer
 ---
 
 Die grundlegenden Fragen, die ich beantworten möchte sind:
